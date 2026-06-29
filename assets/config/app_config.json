@@ -1,0 +1,6 @@
+{
+  "appName": "Enterprise Template",
+  "firebaseEnabled": false,
+  "aiEnabled": true,
+  "supportEmail": "support@example.com"
+}

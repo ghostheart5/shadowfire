@@ -1,0 +1,1 @@
+Replace this placeholder with production font files such as orbitron_placeholder.ttf before enabling custom font families in pubspec.yaml.

@@ -1,0 +1,1 @@
+export '../services/firebase/firebase_service.dart';
